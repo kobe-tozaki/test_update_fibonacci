@@ -8,3 +8,5 @@ def fibonacci(n):
 
 n=int(input("n = "))
 print(fibonacci(n))
+m=int(input("m = "))
+print(fibonacci(m))
